@@ -1,0 +1,12 @@
+import React from "react";
+
+function Note(){
+    return (
+        <div className="note">
+            <h1>Note</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quia!</p>
+        </div>
+    );
+}
+
+export default Note;
