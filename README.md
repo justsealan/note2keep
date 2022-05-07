@@ -1,2 +1,2 @@
 # note2keep
-A simple Note app build with React and Material UI.
+A simple Note keeping app. Built with React and Material UI.
